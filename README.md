@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is first Repository 
 <br>
-Author - Gaurav Botkule
+Author - Gaurav Botkule(college)
